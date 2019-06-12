@@ -4,7 +4,6 @@
     <title>Subscriptions of Strikingwolf2012 from Inoreader [https://www.inoreader.com]</title>
   </head>
   <body>
-    <outline text="What If?" title="What If?" type="rss" xmlUrl="http://what-if.xkcd.com/feed.atom" htmlUrl="http://what-if.xkcd.com/feed.atom"/>
     <outline text="Comics" title="Comics">
       <outline text="xkcd.com" title="xkcd.com" type="rss" xmlUrl="http://xkcd.com/rss.xml" htmlUrl="http://xkcd.com/"/>
       <outline text="PHD Comics" title="PHD Comics" type="rss" xmlUrl="http://www.phdcomics.com/gradfeed.php" htmlUrl="http://www.phdcomics.com/"/>
@@ -29,7 +28,7 @@
       <outline text="KIMCHI CUDDLES" title="KIMCHI CUDDLES" type="rss" xmlUrl="http://kimchicuddles.com/rss" htmlUrl="http://kimchicuddles.com/"/>
       <outline text="QC RSS" title="QC RSS" type="rss" xmlUrl="http://www.questionablecontent.net/QCRSS.xml" htmlUrl="http://www.questionablecontent.net/"/>
       <outline text="Dumbing of Age" title="Dumbing of Age" type="rss" xmlUrl="http://www.dumbingofage.com/feed/" htmlUrl="http://www.dumbingofage.com/"/>
-    </outline>
+    	</outline>
     </body>
 </opml>
 
