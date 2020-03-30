@@ -27,8 +27,9 @@
       <outline text="WE THE ROBOTS" title="WE THE ROBOTS" type="rss" xmlUrl="http://feeds.feedburner.com/WeTheRobots" htmlUrl="http://www.wetherobots.com"/>
       <outline text="KIMCHI CUDDLES" title="KIMCHI CUDDLES" type="rss" xmlUrl="http://kimchicuddles.com/rss" htmlUrl="http://kimchicuddles.com/"/>
       <outline text="QC RSS" title="QC RSS" type="rss" xmlUrl="http://www.questionablecontent.net/QCRSS.xml" htmlUrl="http://www.questionablecontent.net/"/>
-      <outline text="Dumbing of Age" title="Dumbing of Age" type="rss" xmlUrl="http://www.dumbingofage.com/feed/" htmlUrl="http://www.dumbingofage.com/"/>
-    	</outline>
+	  <outline text="Dumbing of Age" title="Dumbing of Age" type="rss" xmlUrl="http://www.dumbingofage.com/feed/" htmlUrl="http://www.dumbingofage.com/"/>
+	  <outline text="I Want to be a Cute Anime Girl" title="I Want to be a Cute Anime Girl" type="rss" xmlUrl="https://www.webtoons.com/en/challenge/i-want-to-be-a-cute-anime-girl/rss?title_no=349416" htmlUrl="https://www.webtoons.com/en/challenge/i-want-to-be-a-cute-anime-girl/list?title_no=349416"/>
+	</outline>
     </body>
 </opml>
 
