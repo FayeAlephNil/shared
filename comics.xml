@@ -4,6 +4,7 @@
 	  <title> Faye's RSS Subscriptions </title>
   </head>
   <body>
+	<!-- Comics -->
     <outline text="Comics" title="Comics">
       <outline text="xkcd.com" title="xkcd.com" type="rss" xmlUrl="http://xkcd.com/rss.xml" htmlUrl="http://xkcd.com/"/>
       <outline text="PHD Comics" title="PHD Comics" type="rss" xmlUrl="http://www.phdcomics.com/gradfeed.php" htmlUrl="http://www.phdcomics.com/"/>
@@ -23,6 +24,7 @@
 	  <outline text="I Want to be a Cute Anime Girl" title="I Want to be a Cute Anime Girl" type="rss" xmlUrl="https://www.webtoons.com/en/challenge/i-want-to-be-a-cute-anime-girl/rss?title_no=349416" htmlUrl="https://www.webtoons.com/en/challenge/i-want-to-be-a-cute-anime-girl/list?title_no=349416"/>
 	  <outline text="Mage and Demon Queen" title="Mage and Demon Queen" type="rss" xmlUrl="https://www.webtoons.com/en/comedy/mage-and-demon-queen/rss?title_no=1438" htmlUrl="https://www.webtoons.com/en/comedy/mage-and-demon-queen/list?title_no=1438"/>
   	</outline>
+	<!-- Tech -->
   	<outline text="Tech" title="Tech">
 	  <outline text="Arch NewsFeed" title="Arch NewsFeed" type="rss" xmlUrl="https://www.archlinux.org/feeds/news" htmlUrl="https://www.archlinux.org/news/"/>
 	</outline>
