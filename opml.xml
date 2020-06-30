@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
   <head>
-    <title>Subscriptions of Strikingwolf2012 from Inoreader [https://www.inoreader.com]</title>
+	  <title> Faye's RSS Subscriptions </title>
   </head>
   <body>
     <outline text="Comics" title="Comics">
@@ -9,27 +9,23 @@
       <outline text="PHD Comics" title="PHD Comics" type="rss" xmlUrl="http://www.phdcomics.com/gradfeed.php" htmlUrl="http://www.phdcomics.com/"/>
       <outline text="Saturday Morning Breakfast Cereal (updated daily)" title="Saturday Morning Breakfast Cereal (updated daily)" type="rss" xmlUrl="http://www.smbc-comics.com/rss.php" htmlUrl="http://www.smbc-comics.com/"/>
       <outline text="Ava's Demon" title="Ava's Demon" type="rss" xmlUrl="http://feeds.feedburner.com/AvasDemon" htmlUrl="http://www.avasdemon.com/"/>
-      <outline text="Abstruse Goose" title="Abstruse Goose" type="rss" xmlUrl="http://abstrusegoose.com/feed" htmlUrl="http://abstrusegoose.com/"/>
       <outline text="Go Get a Roomie!" title="Go Get a Roomie!" type="rss" xmlUrl="http://www.gogetaroomie.com/rss.php" htmlUrl="http://www.gogetaroomie.com/"/>
-      <outline text="Laws and Sausages" title="Laws and Sausages" type="rss" xmlUrl="http://lawsandsausagescomic.com/comic/rss" htmlUrl="http://lawsandsausagescomic.com/"/>
       <outline text="Gunnerkrigg Court" title="Gunnerkrigg Court" type="rss" xmlUrl="http://www.rsspect.com/rss/gunner.xml" htmlUrl="http://www.gunnerkrigg.com/"/>
-      <outline text="It's Walky!" title="It's Walky!" type="rss" xmlUrl="http://www.bringbackroomies.com/feed/" htmlUrl="http://www.itswalky.com/"/>
-      <outline text="puuung1's feed - WEBSTA" title="puuung1's feed - WEBSTA" type="rss" xmlUrl="https://websta.me/rss/n/puuung1" htmlUrl="https://websta.me/rss/n/puuung1"/>
       <outline text="SFP" title="SFP" type="rss" xmlUrl="http://feeds.feedburner.com/strongfemaleprotagonist/UHnv?format=xml" htmlUrl="http://strongfemaleprotagonist.com/"/>
       <outline text="ChaosLife" title="ChaosLife" type="rss" xmlUrl="http://chaoslife.findchaos.com/feed" htmlUrl="http://chaoslife.findchaos.com/"/>
       <outline text="Goodbye to Halos" title="Goodbye to Halos" type="rss" xmlUrl="http://www.goodbyetohalos.com/feed/" htmlUrl="http://www.goodbyetohalos.com/"/>
-      <outline text="Dresden Codak" title="Dresden Codak" type="rss" xmlUrl="http://feeds2.feedburner.com/rsspect/fJur" htmlUrl="http://dresdencodak.com/"/>
       <outline text="Headless Bliss" title="Headless Bliss" type="rss" xmlUrl="http://www.headlessbliss.com/rss.php" htmlUrl="http://www.headlessbliss.com/"/>
-      <outline text="CommitStrip - Blog relating the daily life of web agencies developers" title="CommitStrip - Blog relating the daily life of web agencies developers" type="rss" xmlUrl="http://www.commitstrip.com/en/feed/" htmlUrl="http://www.commitstrip.com/"/>
       <outline text="El Goonish Shive" title="El Goonish Shive" type="rss" xmlUrl="http://www.egscomics.com/rss.php" htmlUrl="http://www.egscomics.com/"/>
       <outline text="Poly in Pictures" title="Poly in Pictures" type="rss" xmlUrl="http://www.polyinpictures.com/feed/" htmlUrl="http://www.polyinpictures.com/"/>
-      <outline text="Scandinavia and the World" title="Scandinavia and the World" type="rss" xmlUrl="http://feeds.feedburner.com/satwcomic" htmlUrl="http://satwcomic.com/"/>
-      <outline text="WE THE ROBOTS" title="WE THE ROBOTS" type="rss" xmlUrl="http://feeds.feedburner.com/WeTheRobots" htmlUrl="http://www.wetherobots.com"/>
       <outline text="KIMCHI CUDDLES" title="KIMCHI CUDDLES" type="rss" xmlUrl="http://kimchicuddles.com/rss" htmlUrl="http://kimchicuddles.com/"/>
       <outline text="QC RSS" title="QC RSS" type="rss" xmlUrl="http://www.questionablecontent.net/QCRSS.xml" htmlUrl="http://www.questionablecontent.net/"/>
 	  <outline text="Dumbing of Age" title="Dumbing of Age" type="rss" xmlUrl="http://www.dumbingofage.com/feed/" htmlUrl="http://www.dumbingofage.com/"/>
 	  <outline text="I Want to be a Cute Anime Girl" title="I Want to be a Cute Anime Girl" type="rss" xmlUrl="https://www.webtoons.com/en/challenge/i-want-to-be-a-cute-anime-girl/rss?title_no=349416" htmlUrl="https://www.webtoons.com/en/challenge/i-want-to-be-a-cute-anime-girl/list?title_no=349416"/>
+	  <outline text="Mage and Demon Queen" title="Mage and Demon Queen" type="rss" xmlUrl="https://www.webtoons.com/en/comedy/mage-and-demon-queen/rss?title_no=1438" htmlUrl="https://www.webtoons.com/en/comedy/mage-and-demon-queen/list?title_no=1438"/>
+  	</outline>
+  	<outline text="Tech" title="Tech">
+	  <outline text="Arch NewsFeed" title="Arch NewsFeed" type="rss" xmlUrl="https://www.archlinux.org/feeds/news" htmlUrl="https://www.archlinux.org/news/"/>
 	</outline>
-    </body>
+  </body>
 </opml>
 
